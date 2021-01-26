@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/General-Assembly-Rejects/GAR-Proxy-Evan/issues"
   },
-  "homepage": "https://github.com/General-Assembly-Rejects/GAR-Proxy-Evan#readme"
+  "homepage": "https://github.com/General-Assembly-Rejects/GAR-Proxy-Evan#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "nodemon": "^2.0.7"
+  }
 }
